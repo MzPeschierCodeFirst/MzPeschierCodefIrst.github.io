@@ -1,6 +1,19 @@
 
 * {
 	text-align: center;
-	color: red;
 	background-size:cover;
+
+}
+h1 {
+	color: red;
+	font-style: courier;
+	font-style: bold;
+	font-size: 18px;
+}
+p{
+	color:red;
+	font-size: 12px
+	font-style: italic;
+	font-family: cursive;
+	font-style: courier;
 }
