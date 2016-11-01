@@ -5,7 +5,9 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: georgia;
+  color: white;
+  font-weight: bold;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -43,7 +45,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  background-color: black;
 }
 a:active,
 a:hover {
